@@ -3,8 +3,8 @@
 
 * 최적설계, 전산해석, 원자력 분야의 딥러닝 적용 가능성 (KAERI, 유용균)
   - [발표자료](./190102_AI프렌즈.pdf)
-  - 관련 논문: Topology optimization for a frequency response and its application to a violin bridge
-  - https://link.springer.com/article/10.1007/s00158-013-0907-8
+  - 관련 논문: Deep learning for determining a near-optimal topological design without any iteration
+  - https://link.springer.com/article/10.1007/s00158-018-2101-5
   - https://arxiv.org/abs/1801.05463
 
 * 기계/재료 분야에서의 베이지안 및 딥러닝 기법 활용 사례 (KEPCO 최우성)
