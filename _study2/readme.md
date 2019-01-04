@@ -3,7 +3,7 @@
 
 * 최적설계, 전산해석, 원자력 분야의 딥러닝 적용 가능성 (KAERI, 유용균)
   - [발표자료](./190102_AI프렌즈.pdf)
-  - 관련 논문Topology optimization for a frequency response and its application to a violin bridge
+  - 관련 논문: Topology optimization for a frequency response and its application to a violin bridge
   - https://link.springer.com/article/10.1007/s00158-013-0907-8
   - https://arxiv.org/abs/1801.05463
 
