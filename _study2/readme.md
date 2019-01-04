@@ -1,6 +1,8 @@
 
-# 스터디 모임 2회 - 기계공학 분야의 딥러닝 적용예 (2019.1.2, TBC 4층 회의실)
+# 스터디 모임 2회 - 기계공학 분야의 딥러닝 적용예
 
+* 일시 : 2019.1.2 (수) 저녁 7~9
+* 장소 : TBC 4층 회의실
 * 최적설계, 전산해석, 원자력 분야의 딥러닝 적용 가능성 (KAERI, 유용균)
   - [발표자료](./190102_AI프렌즈.pdf)
   - 관련 논문: Deep learning for determining a near-optimal topological design without any iteration
