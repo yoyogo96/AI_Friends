@@ -15,5 +15,6 @@
   - 딥러닝(Deep Learning) 기반 발전설비 고온부품 열화평가 기법
   http://www.keaj.kr/news/articleView.html?idxno=1949
 
-[사진1](./KakaoTalk_Photo_2019-01-04-13-02-08.jpeg)
-[사진2](./KakaoTalk_Photo_2019-01-04-13-02-18.jpeg)
+![사진1](./KakaoTalk_Photo_2019-01-04-13-02-08.jpeg)
+
+![사진2](./KakaoTalk_Photo_2019-01-04-13-02-18.jpeg)
