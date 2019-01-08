@@ -7,3 +7,4 @@
 * 연사 : 류성옥 (KAIST 화학공학과 박사과정)
 * 발표자료 : https://github.com/SeongokRyu/my-study-materials 
 
+![](./KakaoTalk_Photo_2019-01-08-23-27-43.jpeg)
