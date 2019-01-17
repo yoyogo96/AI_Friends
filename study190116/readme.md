@@ -15,3 +15,4 @@
   - [발표자료2](https://github.com/yoyogo96/AI_Friends/blob/master/study190116/2_Real%20time%20optimal%20control%20using%20DNN.pdf)
 
 ![](./190116.jpg)
+(사진 by 강신동)
