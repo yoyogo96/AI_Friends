@@ -5,7 +5,8 @@
 * 연사 : 강민국 (부산대학교 기계공학과), 김홍배 (항공우주연구원)
 
 (소개글은 김홍배 박사님 페이스북 글 펌)
-*Anomaly Detection 최신 기술동향 및 실제 응용 소개
+
+* Anomaly Detection 최신 기술동향 및 실제 응용 소개
 - 부산대 기계공학부에 재학중이면서 SI Analytics 인턴으로 근무중인 강민국군이 다양한 분야에서 응용되고 있는 Anomaly detection 기법에 대해 소개
 - [발표자료](./[AI Friends]Deep Anomaly Detection.pdf)
 
