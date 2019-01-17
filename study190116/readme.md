@@ -13,4 +13,4 @@
  - [발표자료1](./1_Quadcopter_grey model.pdf)
  - [발표자료2](./2_Real time optimal control using DNN.pdf)
 
-![](./190116.jpeg)
+![](./190116.jpg)
