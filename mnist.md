@@ -2,7 +2,9 @@
 http://myselph.de/neuralNet.html
 
 Fully connected Neural Network
+
 https://colab.research.google.com/drive/1Py8Eme5lPx3yZ7LvgKbT-3WmGmDSW4CS
+
 https://colab.research.google.com/drive/1iA_Mkt2aSxC_tJU6RrStuugTLsBet_i4
 
 Convolutional Neural Network
