@@ -1,4 +1,5 @@
 *웹에서 손글씨 인식
+
 http://myselph.de/neuralNet.html
 
 *Fully connected Neural Network
